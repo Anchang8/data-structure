@@ -11,5 +11,5 @@
 
 설명: 파이썬의 Queue모듈을 이용하면, Queue.put()이 enqueue의 기능을 수행하고, Queue.get()이 dequeue의 기능을 수행한다. 
 
-#![queue](https://user-images.githubusercontent.com/61732687/79749224-cb9aea00-8349-11ea-9e25-d68e52ed517b.png)
+# ![queue](https://user-images.githubusercontent.com/61732687/79749224-cb9aea00-8349-11ea-9e25-d68e52ed517b.png)
 
