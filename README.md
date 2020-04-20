@@ -9,4 +9,5 @@
 #### 큐는 스택과 반대로 FIFO(First In First Out) 즉, 선입선출 구조. 파이썬에서 Queue모듈을 이용해 구현가능하지만, 사용하지않고 구현함.
 기능: queue(큐의 앞에 값을 삽입), pop(큐의 맨 끝 값 삭제), front/peek(큐의 맨 앞 값 반환), empty(큐가 비어 있는지 확인), size(큐의 크기 반환)
 
-#
+#![queue](https://user-images.githubusercontent.com/61732687/79749224-cb9aea00-8349-11ea-9e25-d68e52ed517b.png)
+
