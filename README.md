@@ -19,6 +19,7 @@
 
 설명: 백준의 문제를 풀다보니, 큐를 이용하는 문제인데 시간초과가 자꾸 되서, 덱을 써 소비시간을 줄여 풀었다. 
 
+## 아래의 그림은 위에서부터 queue stack deque를 보기쉽게 도형화 한것이다.
 # ![queue_stack_deque](https://user-images.githubusercontent.com/61732687/79951845-69122d00-84b4-11ea-9483-3d66accafdf5.png)
 
 
