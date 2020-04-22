@@ -13,3 +13,9 @@
 
 # ![queue](https://user-images.githubusercontent.com/61732687/79749224-cb9aea00-8349-11ea-9e25-d68e52ed517b.png)
 
+## deque(2020/04/22)
+#### 덱 혹은 데크,는 Queue와 Stack의 기능을 합친것이다. From collections import deque로 사용가능.
+기능: append(덱의 끝에 값을 추가), appendleft(덱의 앞에 값을 추가),pop(덱의 맨 끝 값 삭제), popleft(덱의 맨 앞 값 삭제), isempty(큐가 비어 있는지 확인) 등등 built-in Function들이 많다.
+
+설명: 백준의 문제를 풀다보니, 큐를 이용하는 문제인데 시간초과가 자꾸 되서, 덱을 써 소비시간을 줄여 풀었다. 
+
